@@ -1,4 +1,4 @@
 # fempy
 application finite element method in python
 
-$$\int x^2 \, dx = \frac{x^3}3 +C$$
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
